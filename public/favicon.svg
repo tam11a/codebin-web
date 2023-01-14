@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:svgjs="http://svgjs.com/svgjs" width="512" height="512" x="0" y="0" viewBox="0 0 512 512" style="enable-background:new 0 0 512 512" xml:space="preserve" class=""><g>
+<g>
+	
+		<linearGradient id="Code_folder_00000173839787641912142430000003043017577895609519_" gradientUnits="userSpaceOnUse" x1="0" y1="256" x2="512" y2="256">
+		<stop offset="0" style="stop-color:#9DD6FC"></stop>
+		<stop offset="0.0056" style="stop-color:#9DD6FC"></stop>
+		<stop offset="1" style="stop-color:#D17FF7"></stop>
+	</linearGradient>
+	
+		<path id="Code_folder" style="fill:none;stroke:url(#Code_folder_00000173839787641912142430000003043017577895609519_);stroke-width:40;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;" d="
+		M452,76c22.091,0,40,17.909,40,40v320c0,22.091-17.909,40-40,40H60c-22.091,0-40-17.909-40-40V76c0-22.091,17.909-40,40-40h76
+		c22.091,0,40,17.909,40,40l0,0H452z M156,216l-60,60l60,60 M356,336l60-60l-60-60 M296,156l-80,240" fill="none" stroke-width="40" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10"></path>
+</g>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</g></svg>
