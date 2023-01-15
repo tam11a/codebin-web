@@ -1,7 +1,7 @@
 import React from "react";
 
 const WebsiteFooter: React.FC = () => {
-	return <div>WebsiteFooter</div>;
+	return <></>;
 };
 
 export default WebsiteFooter;
